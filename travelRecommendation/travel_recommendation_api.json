@@ -1,0 +1,23 @@
+[
+    {
+      "name": "New York",
+      "keyword": "city",
+      "description": "The city that never sleeps, known for Times Square, Central Park, and the Statue of Liberty."
+    },
+    {
+      "name": "Paris",
+      "keyword": "romantic",
+      "description": "The City of Love, famous for the Eiffel Tower and exquisite cuisine."
+    },
+    {
+      "name": "Tokyo",
+      "keyword": "technology",
+      "description": "A futuristic city with ancient temples and cutting-edge tech."
+    },
+    {
+      "name": "Manali",
+      "keyword": "mountain",
+      "description": "A picturesque hill station in India, ideal for nature and adventure lovers."
+    }
+  ]
+  
